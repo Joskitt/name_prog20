@@ -9,4 +9,4 @@ function showName(name){
 showName('Christian')
 
 
-showName(Ossi);
+showName("Ossi");
