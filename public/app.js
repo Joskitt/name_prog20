@@ -7,3 +7,6 @@ function showName(name){
 }
 //Christian
 showName('Christian')
+
+
+showName(Ossi)
