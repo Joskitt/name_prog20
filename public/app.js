@@ -5,11 +5,18 @@ function showName(name){
     root.appendChild(text)
     document.body.appendChild(root)
 }
-//Christian
+
 showName('Christian')
 
 
 
 
 
+
 showName('Alex');
+
+showName("Ossi");
+
+
+showName('Willi');
+
