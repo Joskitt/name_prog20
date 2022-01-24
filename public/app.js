@@ -6,22 +6,23 @@ function showName(name){
     document.body.appendChild(root)
 }
 //Christian
-<<<<<<< HEAD
 showName('Christian')
-=======
->>>>>>> 5839704d3e40ac69ac6d5026d58144fda5cc781e
 
 
+showName("Ossi");
+showName('Willi');
 
-
-
-<<<<<<< HEAD
 showName('Alex');
-=======
 
 
-  
+showName("Acke");
+showName("Max");
+showName('Viggo')
 
 
-showName('Max')
->>>>>>> 5839704d3e40ac69ac6d5026d58144fda5cc781e
+
+showName("Oliver");
+showName('Alex');
+
+
+
